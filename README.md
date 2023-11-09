@@ -31,18 +31,12 @@ The project follows the Maven architecture. Here's the directories organization:
 	*  Contains the interfaces and the enumerations of the package `contract`
 * **/controller** 
 	* Contains the classes of the package `enumeration`
-* **/javadoc** 
-	* Contains the Javadoc of the project
-* **/diagram** 
-	* Contains the UML diagrams of the project
 * **/entity** 
 	* Contains the classes and the enumerations of the package `entity`
 * **/main** 
 	* Contains the main class
 * **/model** 
 	* Contains the classes of the package `model`
-* **/Reports** 
-	* Contains the test reports of the project.
 * **/sprites** 
 	* Contains all the sprites used in the game
 * **/target/site/xref**
