@@ -2,19 +2,19 @@
 
   
 
-## Java/POO/UML project 2019
+## MODULE POO AVEC JAVA
 
-## A1 Exars 18-23 Strasbourg group 1
-22/05/2019 - 04/06/2019
+## X1 ULC-Icam Kinshasa group 2
+Novembre 2023
   
 
 __Authors:__
 
-* Etienne CARRE
+* Samuel BIRAHEKA
 
-* Stéphane ZUNDEL
+* Jude KASONGO
 
-* Maxime BAILLY-SALINS
+* Francis NYIMI
 
 Here's the git of our Java Project, *Boulder Dash*.
 
